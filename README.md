@@ -1,6 +1,6 @@
 # my-room-automation-project
 ## Introduction
-This repository contains the code and instructions to implement home automation using raspberry pi zero W and a 2-channel relay. I selected to channel relay to automate tubelight and bulb.
+This repository contains the code and instructions to implement home automation using raspberry pi zero W and a 2-channel relay. I selected to channel relay to automate tubelight and bulb. Detailed instructions at [this link](https://www.sashwat.in/raspberry%20pi/home%20automation/simple-home-automation/).
 
 ## Hardware Requirements
 
