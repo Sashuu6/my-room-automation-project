@@ -44,7 +44,7 @@ void setup() {
 // loop() runs continuously, it's our infinite loop.
 void loop() {
      if (vinTube==HIGH) {
-         digitalWrite(relayTubelight,LOW);
+         digitalWrite(relayTubelight,LOW); // make light off
      }
 else if (vinTube==LOW) {
          digitalWrite(relayTubelight,HIGH);
